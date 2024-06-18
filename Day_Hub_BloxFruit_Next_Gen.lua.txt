@@ -4,8 +4,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "Day Hub Next Generation | Blox Fruits",
-    SubTitle = "Premium Version | xSPLZ999",
+    Title = "Capybara Hub v1 Next Generation | Blox Fruits",
+    SubTitle = "Premium Version | Capybara124g",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
     Acrylic = true,
